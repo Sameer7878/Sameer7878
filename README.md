@@ -85,10 +85,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <div align="center">
-<!-- <a href="https://github.com/vishnu630/"> -->
-<img src ='https://github-readme-stats.vercel.app/api?username=vishnu630&show_icons=true&theme=tokyonight'/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu630&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="vishnu630"/>
-<img src='https://komarev.com/ghpvc/?username=vishnu630&color=dc143c'/>
+<!-- <a href="https://github.com/sameer7878/"> -->
+<img src ='https://github-readme-stats.vercel.app/api?username=sameer7878&show_icons=true&theme=tokyonight'/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu630&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="sameer7878"/>
+<img src='https://komarev.com/ghpvc/?username=sameer7878&color=dc143c'/>
 <!-- </a> -->
 </div>
 
@@ -108,24 +108,24 @@ You can click the Preview link to take a look at your changes.
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/vishnu-teja-reddy-a284b4194/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Vishnu Teja Reddy-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/sameer7878/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Sameer Shaik-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/vishnut03004400" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Vishnu Teja Reddy-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  Sameer Shaik-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:vishnuteja779986@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Vishnu Teja Reddy-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:sameer.shaik.062002@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Sameer Shaik-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
