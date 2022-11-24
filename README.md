@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"><b>Hi , I'm Sameer Shaik </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Information+Technology+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer,;Information+Technology+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - 🌱 An Aspiring MERN Stack Developer
-- Personal website [link](https://vishnutejareddy.me/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.vishnutejareddy.me)
+- Personal website [link](#)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](#)
 
 <br><br>
 
@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <!-- <a href="https://github.com/sameer7878/"> -->
 <img src ='https://github-readme-stats.vercel.app/api?username=sameer7878&show_icons=true&theme=tokyonight'/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu630&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="sameer7878"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer7878&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="sameer7878"/>
 <img src='https://komarev.com/ghpvc/?username=sameer7878&color=dc143c'/>
 <!-- </a> -->
 </div>
@@ -150,5 +150,5 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-Credit: [vishnutejareddy](https://github.com/vishnu630/vishnu630)
+Credit: [Sameer Shaik](https://github.com/sameer7878/sameer7878)
 
