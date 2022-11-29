@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- A passionate Self-taught Full-Stack developer
+- Currently learning Networking by Self
 - 🌱 An Aspiring MERN Stack Developer
 - Personal website [link](#)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](#)
