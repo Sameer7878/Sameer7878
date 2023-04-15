@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - A passionate Self-taught Full-Stack developer
 - Currently learning Networking by Self
-- 🌱 An Aspiring MERN Stack Developer
+- 🌱 An Aspiring IOT Developer
 - Personal website [link](#)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](#)
 
