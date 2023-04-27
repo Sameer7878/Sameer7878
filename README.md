@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - A passionate Self-taught Full-Stack developer
 - Currently learning Networking by Self
 - 🌱 An Aspiring IOT Developer
-- Personal website [link](sameershaik.me)
+- Personal website [link](http://sameershaik.me)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1JEtjKTysFn8AafiHUJQ0a_7GQQDjJZTC/view?usp=sharing)
 
 <br><br>
